@@ -1,0 +1,39 @@
+{
+  "name": "reactjsredux2",
+  "version": "1.0.0",
+  "description": "React js  and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run build",
+    "build": "webpack -d && webpack-dev-server --content-base src/ --inline --hot --port 5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarBohat/ReactJSRedux.git"
+  },
+  "keywords": [
+    "reactjs",
+    "redux",
+    "react-redux"
+  ],
+  "author": "Sagar Bohat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SagarBohat/ReactJSRedux/issues"
+  },
+  "homepage": "https://github.com/SagarBohat/ReactJSRedux#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
