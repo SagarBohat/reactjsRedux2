@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SagarBohat/ReactJSRedux.git"
+    "url": "git+https://github.com/SagarBohat/reactjsRedux2.git"
   },
   "keywords": [
     "reactjs",
@@ -18,11 +18,11 @@
     "react-redux"
   ],
   "author": "Sagar Bohat",
-  "license": "MIT",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/SagarBohat/ReactJSRedux/issues"
+    "url": "https://github.com/SagarBohat/reactjsRedux2/issues"
   },
-  "homepage": "https://github.com/SagarBohat/ReactJSRedux#readme",
+  "homepage": "https://github.com/SagarBohat/reactjsRedux2#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
